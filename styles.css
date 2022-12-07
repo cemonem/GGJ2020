@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+}
+
+#canvasbox {
+    height: 576px;
+    width: 1024px;
+    margin: auto;
+}
